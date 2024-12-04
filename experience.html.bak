@@ -16,7 +16,7 @@
 		<!--this the navigation-->
 	<nav>
 		<ul>
-			<li><a href="home.html">Home</a></li>
+			<li><a href="index.html">index</a></li>
 			<li><a href="overview.html">Overview</a></li>
 			<li><a href="services.html">Services</a></li>
 			<li><a href="experience.html" class="active">Experience</a></li>
