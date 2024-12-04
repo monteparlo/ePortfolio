@@ -1,0 +1,150 @@
+/* OVERVIEW CSS*/
+
+/* Reset default margin and padding */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, normal; /* Set default font to Arial */
+    color: rgb(92, 35, 36); /* Set text color to white */
+}
+
+/* Style header */
+header {
+	position: relative;
+    background-image: url("../assets/header.png");
+    background-size: cover;
+    background-position: center; /* Center the background image */
+    width: 100%; /* Fill the width of the screen */
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+/* Logo image */
+header img#profile {
+    width: 25%; /* 1/4th of screen width */
+    height: auto; /* Maintain aspect ratio */
+	justify-content: center;
+}
+
+/* Style navigation */
+nav {
+    background-color: rgba(199, 107, 108, 0.4); /* RGBA #c76b6c with opacity 30% */
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    top: 54vh; /* Bottom of header */
+    left: 0;
+    z-index: 3; /* Navigation appears above header */
+	color: white;
+	font-size: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+	padding: 0;
+	color: white;
+}
+
+nav ul li {
+	display: inline-block; /* Keep nav links inline */
+	color: white;
+}
+
+nav ul li a {
+    text-decoration: none;
+    padding: 15px 30px;
+    display: inline-block;
+    text-transform: uppercase; /* Make text all caps */
+    font-weight: bold; /* Set font weight to bold */
+	color: white;
+}
+
+nav ul li a.active {
+    color: rgb(92, 35, 36) !important; /* Dark mauve for active state */
+}
+
+nav ul li a:visited {
+    color: rgb(102, 102, 153);
+	
+}
+
+/* Mobile CSS */
+@media (max-width: 1100px) {
+    nav ul li a {
+        padding: 15px 30px;
+		display: inline-block;
+    }
+}
+
+
+@media (max-width: 999px) {
+    nav ul li a {
+        padding: 15px 20px;
+		display: inline-block;
+    }
+}
+@media (max-width: 899px) {
+    nav ul li a {
+        padding: 17px 10px;
+		display: inline-block;
+    }
+}
+@media (max-width: 790px) {
+    nav ul li a {
+        padding: 18px 6px;
+		display: inline-block;
+    }
+}
+@media (max-width: 690px) {
+    nav ul li a {
+        padding: 19px 5px;
+		display: inline-block;
+		font-size: 13px;
+    }
+}
+
+
+body {
+	background-image: url("../assets/body.png");
+	background-position: center;
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+	
+}
+
+/* Style main section */
+main {
+    background-size: cover;
+    padding: 20px;
+    z-index: -5;
+	position: relative;
+	text-align: left;
+	display: inline-block;
+	width: 66.66%;
+}
+
+main h2 {
+    text-align: center; /* Centers H2 */
+}
+
+
+/* Style footer */
+footer {
+		color: white;
+		padding: 10px;
+		background-color: transparent;
+		font-size: 10px;
+		bottom: 0;
+		text-align: center;
+		color: rgb(92, 35, 36); 
+}
+
+footer a {
+    color: 	rgb(214, 143, 177); /* Link color for footer */
+}

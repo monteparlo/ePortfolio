@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang=en>
+	<head>
+		<!--meta information-->
+		<meta charset="UTF-8">
+		<meta name="MonteParlo" content="Monica Paultre's Portfolio">
+		<!--this shows in the tab-->
+		<title>MonteParlo's Portfolio</title>
+		<link rel="stylesheet" href="css/experience.css">
+	</head>
+  <body>
+	<header>
+		<img src="assets/profile.png" alt="profile" width="359" height="330">
+	</header>
+	
+		<!--this the navigation-->
+	<nav>
+		<ul>
+			<li><a href="home.html">Home</a></li>
+			<li><a href="overview.html">Overview</a></li>
+			<li><a href="services.html">Services</a></li>
+			<li><a href="experience.html" class="active">Experience</a></li>
+			<li><a href="works.html">Works</a></li>
+			<li><a href="contact.html">Contact</a></li>
+		</ul>
+	</nav>
+	
+	<main>
+	<!--main text-->
+		
+		<section class="left-column">
+			
+			<h2><b>Work Experience</b></h2><br>
+			
+			<section>
+				<h3>Freelance Graphic Designer</h3>
+				<i>MonteParlo Productions - Hollywood, FL</i>
+				<p>January 2013 to Present</p>
+				<ul>
+					<li>Collaborated with 20+ companies in digital design products including clothing design, brochures, and logos.</li>
+					<li>Rendered 5+ murals with measurements and scaling accuracy to be executed on company properties.</li>
+					<li>Curated business card designs, posters, and other digital content for corporate and individual contractors.</li>
+					<li>Provided recurring event flyers for event corporations and freelance artists.</li>
+					<li>Rendered 5+ tattoo designs.</li>
+				</ul>
+			</section>
+			
+					<br>
+					
+			<section>
+				<h3>Karaoke Host</h3>
+				<i>Sounds Of Stardom - Fort Lauderdale, FL</i>
+				<p>March 2022 to Present</p>
+				<ul>
+					<li>Collaborated with various companies in marketing karaoke events.</li>
+					<li>Provided excellent customer service to karaoke singers.</li>
+					<li>Coordinated events and engineered performances with sound and lighting.</li>
+				</ul>
+			</section>
+			
+					<br>
+					
+			<section>
+				<h3>Director of Marketing / Assistant</h3>
+				<i>Light Up the Night, LLC - Fort Lauderdale, FL</i>
+				<p>January 2019 to June 2019</p>
+				<ul>
+					<li>Developed artwork and layouts for print and digital signage, banners, posters, publications, and flyers.</li>
+					<li>Managed and led a 4-person team in the production of marketing projects, presentations, promotional materials; video, photography, graphic design, website design, audio/visual needs.</li>
+					<li>Troubleshooted company technical issues including website editing and printer malfunction.</li>
+					<li>Engaged in customer inquiries, providing excellent customer service in selling event packages and services.</li>
+				</ul>
+			</section>
+			
+					<br>
+					
+			<section>
+					<h3>IT Specialist / Copy & Print Assistant / Sales Associate</h3>
+					<i>Office Depot - Fort Lauderdale, FL</i>
+					<p>September 2018 to January 2019</p>
+					<ul>
+						<li>Designed posters and flyers to assist promotional marketing within the store.</li>
+						<li>Provided exceptional customer service by utilizing designing experience to assist in copy & print projects.</li>
+						<li>Diagnosed software and hardware problems and immediately resolved issues.</li>
+						<li>Built long-term customer relationships and advised customers on purchases and promotions.</li>
+					</ul>	
+			</section>
+			
+					<br>
+					
+			<section>
+					<h3>Store Manager - Director of Marketing and Events</h3>
+					<i>City Wide Vapor Shop - Fort Lauderdale, FL</i>
+					<p>May 2014 to December 2014</p>
+					<ul>
+						<li>Created flyers, posters, business cards, and other marketing paraphernalia.</li>
+						<li>Designed hookah menu layouts and templates for private and public events.</li>
+						<li>Created inventory pricing posters, spreadsheets, and other promotional material.</li>
+						<li>Managed and negotiated with partners for the curation of events.</li>
+					</ul>
+			</section>
+				
+					<br>
+					
+			<section>
+					<h3>Inventory Associate - Graphic Designing Assistant</h3>
+					<i>CarMax - Davie, FL</i>
+					<p>December 2014 to January 2016</p>
+					<ul>
+						<li>Designed and rendered a novelty logo to represent business location to participate in national company contest against competing locations.</li>
+						<li>Designed and rendered a sophisticated logo to assist the operations department in branding.</li>
+						<li>Provided freelancing design services to coworkers in assisting their company branding.</li>
+						<li>Provided Photoshop editing services to coworkers for their personal projects.</li>
+					</ul>
+			</section>
+			
+					<br>
+					
+			<section>
+					<h3>Creative Director / Scare Actor</h3>
+					<i>Attraction Design & Construction - Demon Mansion - Fort Lauderdale, FL</i>
+					<p>September 2013 to November 2013</p>
+					<ul>
+						<li>Used creative skills to complete various major and minor exterior and interior decorations.</li>
+						<li>Worked with technical teams to effectively incorporate lighting and other special effect features.</li>
+						<li>Factored concerns such as location limitations and safety issues into every design.</li>
+						<li>Negotiated agreements between employees to clarify misunderstood directions and resolve conflicts affecting performance.</li>
+					</ul>
+			</section>	
+			
+		</section>
+			
+				<br><br>
+				
+				
+		<section class="right-column">
+		
+			<section>
+				<h2><b>Education</b></h2><br>
+					<i>(In Progress)</i>
+					<p><b>2024 | Bachelor's Degree</b></p>
+					<p>IT / Web Design</p>
+					<p>Broward College</p>
+					<p>Davie, FL</p> 
+<br>
+					<p><b>2017 | Associate Degree</b></p>
+					<p>Art</p> 
+					<p>Broward College</p> 
+					<p>Fort Lauderdale, FL</p> 
+<br>
+					<p><b>2014 | High School Diploma</b></p> 
+					<p>South Broward High</p>
+					<p>Hollywood, FL</p>
+			</section><br><br>
+			
+			<section>
+				<h2><b>Certificates</b></h2><br>
+						<p><b>Insurance agent</b></p>
+						<p>Customer representative (0440) | 2020</p>
+			</section>
+		
+		</section>
+				
+	</main>
+	
+	
+ <footer>
+    &copy; <em>2024</em> Created by Monica Paultre. <a href="mailto:paulmj1@mail.broward.edu">paulmj1@mail.broward.edu</a>
+</footer>
+	
+ </body>
+</html>

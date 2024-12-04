@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang=en>
+	<head>
+		<!--meta information-->
+		<meta charset="UTF-8">
+		<meta name="MonteParlo" content="Monica Paultre's Portfolio">
+		<!--this shows in the tab-->
+		<title>MonteParlo's Portfolio</title>
+		<link rel="stylesheet" href="css/home.css">
+	</head>
+  <body>
+	<header>
+		<img src="assets/profile.png" alt="profile" width="359" height="330">
+	</header>
+	
+		<!--this the navigation-->
+	<nav>
+		<ul>
+			<li><a href="home.html">Home</a></li>
+			<li><a href="overview.html" class="active">Overview</a></li>
+			<li><a href="services.html">Services</a></li>
+			<li><a href="experience.html">Experience</a></li>
+			<li><a href="works.html">Works</a></li>
+			<li><a href="contact.html">Contact</a></li>
+		</ul>
+	</nav>
+	
+	<main>
+	<!--main text-->
+		<h2><strong>The Most Creative Freelancer You'll Ever Meet!</strong></h2>
+		<br>
+		<p>Independent contractor with creative skillsets to develop original solutions with a high visual impact for clients. Proficiency in networking, project management, negotiating fees, discussing requirements, developing new ideas, presenting solutions to clients, and marketing expertise. Exceptional creativity, self-motivated, specialized software expertise, strong attention to detail, deadline orientated, and excellent communication skills. Always looking to push conceptual boundaries within each assignment.
+		<br><br>
+		My background is Haitian-American. I was born and raised in Fort Lauderdale, Florida. I have a huge passion for creative projects. Whether it's graphic design, web design, crocheting or knitting, painting, song-writing, guitar, you'll always find me working on something spectacular!
+		<br><br>
+		When I was a toddler, my mother never had to worry about my whereabouts. She knew my face would be glued to the computer, drawing up another creation, or just changing the background and moving around files! I always had a curiosity for technology in seeing how I could manipulate or create something with just a click of the mouse. Being drawn to art, I naturally picked up on Microsoft Paint and went to town! As my skillsets developed, friends and family would constantly ask me to draw them. It was truly wonderful seeing their faces light up when I finished their portraits.
+		<br><br>
+		As I got older, creating fliers for events was a huge breakthrough for me. I would even create my own events and be thrilled at the creation process for producing fliers. I even got into designing logos and business cards. When I found out that there were online competions, I did my best to enter in as many as possible. This broadened my perspective of graphic design, and I continue to this day to achieve outstanding designs for clients.
+		</p>
+	</main>
+	
+ <footer>
+    &copy; <em>2024</em> Created by Monica Paultre. <a href="mailto:paulmj1@mail.broward.edu">paulmj1@mail.broward.edu</a>
+</footer>
+	
+ </body>
+</html>
